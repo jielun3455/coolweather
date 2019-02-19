@@ -1,7 +1,9 @@
-package com.example.bh100.coolweather;
+package com.example.bh100.coolweather.android;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.bh100.coolweather.android.R;
 
 public class MainActivity extends AppCompatActivity {
 
